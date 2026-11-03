@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['scr_5fh_0',['SCR_H',['../display_8h.html#a61b2e5ac0d21f66c13855ee70a1a507d',1,'display.h']]],
+  ['scr_5fw_1',['SCR_W',['../display_8h.html#a800e692b98ec3f4cc0679e934485ca84',1,'display.h']]],
+  ['shift_5frpm_2',['SHIFT_RPM',['../sensors_8h.html#a3cebbbc9901b3b31c7d42a61581851be',1,'sensors.h']]],
+  ['slot_5fh_3',['SLOT_H',['../sensors_8h.html#ab56c3519aae808695fe306fcf3d99f8e',1,'sensors.h']]],
+  ['slot_5fw_4',['SLOT_W',['../sensors_8h.html#a6fad2312eecdc6613d4992d80dc56d30',1,'sensors.h']]],
+  ['spd_5fbar_5fx_5',['SPD_BAR_X',['../sensors_8h.html#ae5fc8d1136e131206fe21a110fe65a96',1,'sensors.h']]],
+  ['spd_5fbar_5fy_6',['SPD_BAR_Y',['../sensors_8h.html#a7fbeefe788ca0ac90ac56e837f9286d3',1,'sensors.h']]],
+  ['spd_5fn_7',['SPD_N',['../sensors_8h.html#ac8c70da8063f9f1c10d5efaeea8a2106',1,'sensors.h']]],
+  ['spd_5fnum_5farea_5fw_8',['SPD_NUM_AREA_W',['../sensors_8h.html#a930a71c6d48918e42f55b86de6f82caa',1,'sensors.h']]],
+  ['spd_5fnum_5farea_5fx_9',['SPD_NUM_AREA_X',['../sensors_8h.html#a6c1f8a9e010135f27ceae360e9dbcff3',1,'sensors.h']]],
+  ['spd_5fnum_5fy_10',['SPD_NUM_Y',['../sensors_8h.html#a00eaf9575a233319210ce387f042acb0',1,'sensors.h']]],
+  ['spd_5fpitch_11',['SPD_PITCH',['../sensors_8h.html#a2c4ce6716be37c9226878454f7eb579b',1,'sensors.h']]],
+  ['spd_5fseg_5fh_12',['SPD_SEG_H',['../sensors_8h.html#a2bb872371f775b9f43fdabbbcab31fda',1,'sensors.h']]],
+  ['spd_5fseg_5fw_13',['SPD_SEG_W',['../sensors_8h.html#aea51a6fc07f69ef1c44c360127e4e229',1,'sensors.h']]],
+  ['speed_5fmax_14',['SPEED_MAX',['../sensors_8h.html#ad7c86544bbb397ff14a6bb7f288f63a0',1,'sensors.h']]],
+  ['spi_5fmiso_15',['SPI_MISO',['../display_8h.html#ab142cc77dfa97010c9d2b616d0992b64',1,'display.h']]],
+  ['spi_5fmosi_16',['SPI_MOSI',['../display_8h.html#a7dbebab5f7dd57885adccf6711b13592',1,'display.h']]],
+  ['spi_5fsclk_17',['SPI_SCLK',['../display_8h.html#aefec442ab2dbec4785b387b3e88faa66',1,'display.h']]],
+  ['strip_5fh_18',['STRIP_H',['../sensors_8h.html#afd4700112d74ccba6205574ed75de120',1,'sensors.h']]],
+  ['strip_5fw_19',['STRIP_W',['../sensors_8h.html#a1dd5078a73dedf790cb8c0a6948ffacf',1,'sensors.h']]],
+  ['strip_5fx_20',['STRIP_X',['../sensors_8h.html#a7f0b2a5325e1e3cb23186c056e8d549a',1,'sensors.h']]],
+  ['strip_5fy_21',['STRIP_Y',['../sensors_8h.html#af9ff2842e22ee348b48b88eaf7eac645',1,'sensors.h']]]
+];
